@@ -8,4 +8,4 @@ Help - Will show the list of commands.
 
 Download - will download Telegram Portable from the official website.
 
-Session add #<Archive name.zip> - Will add the session and launch Telegram with this account.
+Session - Will add the session and launch Telegram with this account.
